@@ -1,4 +1,5 @@
-let keys = [
+window.keys = [
   "key1",
   "key2"
 ];
+
