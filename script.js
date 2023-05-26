@@ -1,4 +1,4 @@
-const keys = [
+let keys = [
   "key1",
   "key2"
 ];
